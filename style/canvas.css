@@ -1,0 +1,9 @@
+canvas {
+  border: 1px solid black;
+  background: rgb(255, 255, 255);
+}
+
+body{
+  margin:0;
+  background: peachpuff;
+}
